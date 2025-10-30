@@ -1,3 +1,5 @@
+## tune-s2 - Southern Hemisphere Edition!
+
 This is a patched version of tune-s2 for enabling USALS dish positioning for users south of the equator. 
 Previously, tune-s2 would steer the dish in the wrong direction for us folks down in the southern hemisphere. 
 All other functionality is identical to crazycats tune-S2 repository. Tested and working on DragonOS FocalX R37.
